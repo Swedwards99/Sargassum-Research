@@ -1,53 +1,31 @@
 # Fdb version 3
-<<<<<<< HEAD
-["bibtex Major_project_proposal"] 1592762405 "Major_project_proposal.aux" "Major_project_proposal.bbl" "Major_project_proposal" 1592762406
+["bibtex Major_project_proposal"] 1593585234 "Major_project_proposal.aux" "Major_project_proposal.bbl" "Major_project_proposal" 1593585235
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "M335.bib" 1592672057 55407 b44fef5209b2ccfee7422e8ffb9da929 ""
-  "Major_project_proposal.aux" 1592762405 2164 819cc81e12d20c71110a54a926f0e3a3 "pdflatex"
+  "Major_project_proposal.aux" 1593585235 2199 3122c8379b4b7bb32bcf2970086830b2 "pdflatex"
   (generated)
   "Major_project_proposal.blg"
   "Major_project_proposal.bbl"
-["pdflatex"] 1592762405 "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.tex" "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.pdf" "Major_project_proposal" 1592762406
+["pdflatex"] 1593585234 "Major_project_proposal.tex" "Major_project_proposal.pdf" "Major_project_proposal" 1593585235
   "C:/Users/Spenc/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0800.pk" 1592188701 9292 d5b4621556c7d8d05d65be20c7e99062 ""
   "C:/Users/Spenc/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1591596816 10017615 aedd8b11e85125c25ee627e25d3e6c71 ""
-  "C:/Users/Spenc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1592762402 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
+  "C:/Users/Spenc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1593327140 79692 811c547c860a579f8903bad7c0f2242b ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/tcrm0800.tfm" 993062506 1444 e35ead393df86aae37b5564284d9aa05 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
-=======
-["bibtex Major_project_proposal"] 1593153432 "Major_project_proposal.aux" "Major_project_proposal.bbl" "Major_project_proposal" 1593234131
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "M335.bib" 1592768105 55407 b44fef5209b2ccfee7422e8ffb9da929 ""
-  "Major_project_proposal.aux" 1593234130 2170 69250b96ac06be6381b0e1efde315c26 "xelatex"
-  (generated)
-  "Major_project_proposal.blg"
-  "Major_project_proposal.bbl"
-["xdvipdfmx"] 1593234130 "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.xdv" "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.pdf" "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal" 1593234131
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.xdv" 1593234130 138340 e2041e6b2538cc54d424e37a355e879e "xelatex"
-  (generated)
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.pdf"
-["xelatex"] 1593234128 "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.tex" "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.xdv" "Major_project_proposal" 1593234131
-  "C:/Users/Spenc/AppData/Local/MiKTeX/2.9/miktex/data/le/xetex/xelatex.fmt" 1592785408 22777136 07cbe37e94e0aaa829877e35b7a1b93e ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
-<<<<<<< HEAD
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
-=======
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
-<<<<<<< HEAD
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -63,13 +41,6 @@
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.sty" 1584888153 18898 a389c5d9c1712e0ab1b7c6d94c0fbb10 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/switch.def" 1584888153 15222 7aefa1398da602e1bc918951352802f0 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/txtbabel.def" 1584888153 5220 42a6518b499d20676051f269c61f4d9a ""
-=======
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.def" 1581697998 87344 ec128793fb5196bbcc1741e5366ddac1 ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.sty" 1581697998 18844 909add1631725af40d27125357ea816e ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/switch.def" 1581697998 15529 e761dc130df77f0ce9717a25d1b52a95 ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/txtbabel.def" 1581697998 5220 42a6518b499d20676051f269c61f4d9a ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/xebabel.def" 1581697998 11494 9f717f2e20ed9697bb4b84020941f936 ""
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty" 1580750175 2283 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty" 1580750177 4297 7f6eb9092061a11f87d08ed13515b48d ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty" 1580750178 88523 baee036978c7a91f4e2bba43f05e5945 ""
@@ -77,63 +48,28 @@
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty" 1580750180 2508 8ff93b1137020e8f21930562a874ae66 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/arabi/bblopts.cfg" 1139965200 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/babel-english/english.ldf" 1496846498 7219 9ff5fdcc865b01beca2b0fe4a46231d4 ""
-<<<<<<< HEAD
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/exscale.sty" 1582875266 2582 740b94c0cd36fe969fdd17c721f35f3d ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty" 1582875266 5050 8933a39ad74377accd18991c5eb90c58 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo" 1582875266 8447 5c4b8ee712f8e349df2722115bc8c513 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/textcomp.sty" 1582875266 2821 2c0928feafd5527387e29a1af774d030 ""
-=======
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/exscale.sty" 1582553008 2582 740b94c0cd36fe969fdd17c721f35f3d ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo" 1582553008 8447 5c4b8ee712f8e349df2722115bc8c513 ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/textcomp.sty" 1582553008 2821 2c0928feafd5527387e29a1af774d030 ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ts1cmr.fd" 1582553008 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/cite/cite.sty" 1425357082 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/csquotes/csquotes.cfg" 1573504428 7068 06f8d141725d114847527a66439066b6 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/csquotes/csquotes.def" 1575630574 20661 2cc17eb579a3bd6b7ad716c03297be82 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/csquotes/csquotes.sty" 1575630574 62507 c2b7d23074a96cd82fab02e3b02dd632 ""
-<<<<<<< HEAD
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1580045142 14411 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etoolbox.sty" 1569083170 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/extsizes/extarticle.cls" 947709720 20602 3112294ba237d94ce4a1502cfef3594f ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def" 1515451900 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
-=======
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etoolbox.sty" 1569083170 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/extsizes/extarticle.cls" 947709720 20602 3112294ba237d94ce4a1502cfef3594f ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/xetex.def" 1508864012 12707 672c620846df0fecf0a7a99fed83566d ""
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty" 1580750142 17508 04729abe63b66ec59ea56edcd722b058 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty" 1580750142 9343 1b996612394a52e1efe89c8bfe8a5892 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty" 1580750142 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty" 1580750142 4093 d7fa7d81d2870d509d25b17d0245e735 ""
-<<<<<<< HEAD
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-pdfmode.def" 1584011114 25398 19ae1e59d7f4a47fefb457d851f6f503 ""
   "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
-  "Major_project_proposal.aux" 1592762405 2164 819cc81e12d20c71110a54a926f0e3a3 "pdflatex"
-  "Major_project_proposal.bbl" 1592762405 4833 250d8ea777e39883e96747f491854564 "bibtex Major_project_proposal"
-  "Major_project_proposal.tex" 1592762384 11700 c89230a6e3193cfa5cede5182a6bf0c9 ""
-  "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.aux" 1592762405 2164 819cc81e12d20c71110a54a926f0e3a3 ""
-  "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.tex" 1592762384 11700 c89230a6e3193cfa5cede5182a6bf0c9 ""
+  "Major_project_proposal.aux" 1593585235 2199 3122c8379b4b7bb32bcf2970086830b2 "pdflatex"
+  "Major_project_proposal.bbl" 1593585234 4833 250d8ea777e39883e96747f491854564 "bibtex Major_project_proposal"
+  "Major_project_proposal.tex" 1593327237 11807 e3d8fa58ca159b055952f1edb2715d7f ""
   (generated)
-  "Major_project_proposal.log"
-  "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.log"
   "Major_project_proposal.aux"
   "Major_project_proposal.pdf"
-  "c:/Users/Spenc/Documents/GitHub/Sargassum-Research/Major_project_proposal.pdf"
-=======
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-xdvipdfmx.def" 1582474082 24128 f7a942d6653144b7df39aaf372ba074c ""
-  "C:/Users/Spenc/AppData/Local/Programs/MiKTeX 2.9/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
-  "Major_project_proposal.aux" 1593234130 2170 69250b96ac06be6381b0e1efde315c26 "xelatex"
-  "Major_project_proposal.bbl" 1593153433 4833 250d8ea777e39883e96747f491854564 "bibtex Major_project_proposal"
-  "Major_project_proposal.tex" 1593234126 11776 b999d47c7e48594420a1478bf10d67b2 ""
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.aux" 1593234130 2170 69250b96ac06be6381b0e1efde315c26 ""
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.tex" 1593234126 11776 b999d47c7e48594420a1478bf10d67b2 ""
-  (generated)
   "Major_project_proposal.log"
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.log"
-  "Major_project_proposal.xdv"
-  "c:/Users/Spenc/Documents/Sargassum-Research/Major_project_proposal.xdv"
-  "Major_project_proposal.aux"
->>>>>>> d63d990e8c6f5407f3d0128368c02f644d741dad

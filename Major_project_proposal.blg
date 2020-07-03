@@ -1,7 +1,50 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Major_project_proposal.aux
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Major_project_proposal.aux
 The style file: plain.bst
 Database file #1: M335.bib
 Warning--empty journal in Engelen2015
 Warning--there's a number but no volume in Engelen2015
 Warning--there's a number but no volume in LeCam2019
+You've used 16 entries,
+            2118 wiz_defined-function locations,
+            616 strings with 8086 characters,
+and the built_in function-call counts, 6248 in all, are:
+= -- 602
+> -- 381
+< -- 0
++ -- 150
+- -- 134
+* -- 544
+:= -- 1082
+add.period$ -- 48
+call.type$ -- 16
+change.case$ -- 115
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 175
+empty$ -- 415
+format.name$ -- 134
+if$ -- 1223
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 83
+num.names$ -- 32
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 99
+quote$ -- 0
+skip$ -- 109
+stack$ -- 0
+substring$ -- 429
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 64
+warning$ -- 3
+while$ -- 60
+width$ -- 18
+write$ -- 176
 (There were 3 warnings)
